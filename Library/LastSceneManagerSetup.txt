@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/AreaCosts/AreaCosts.unity
+  isLoaded: 1
+  isActive: 1
